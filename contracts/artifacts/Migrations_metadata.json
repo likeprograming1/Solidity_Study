@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "setHello",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Migrations.sol": "Migrations"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Migrations.sol": {
+			"keccak256": "0xbe3f471a91fa0f5f16441e9c46ba5aa22d5f0048686a7157aadd7748c7caed01",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f1912580d9c7b8d9869b4395aaaab3d2294e4550b3e5e8b2f9013bee7e7359ef",
+				"dweb:/ipfs/Qmab1F5ApsAJtGXM39J4mXHDqWWTNMt9E6FvfniiJAL2j3"
+			]
+		}
+	},
+	"version": 1
+}
